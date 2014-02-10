@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>TinyMCE</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</license>
+	<url>http://github.com/marnulombard/tinymce-for-habari/</url>
+	<author url="http://marnulombard.com/">Marnu Lombard &amp; Michael C. Harris</author>
+	<version>0.0.1</version>
+	<description><![CDATA[Publish posts using the TinyMCE editor.]]></description>
+	<copyright>2014</copyright>
+	<guid>f729425d-21d2-4760-b20f-c3904c484603</guid>
+</pluggable>
+
